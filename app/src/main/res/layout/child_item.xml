@@ -30,7 +30,7 @@
                     android:id="@+id/child_item_title"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="Examole Text"
+                    android:text="Examole Text New"
                     android:textStyle="bold"
                     />
             </LinearLayout>
